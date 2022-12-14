@@ -1,5 +1,6 @@
 # This Repo is against Google Colab policy,So use it at you own Risk.
-
+    You can read the Colab faq here.
+    Source: https://research.google.com/colaboratory/faq.html
 
 # Torrent To Google Drive Downloader
 
@@ -13,7 +14,7 @@ Click th badge `Open in Colab` and follow the directions there.
 
 1. It will convert torrent files and it'll save it to your Google Drive and you can access it anywhere as it's on the google cloud.
 2. As we know Google Server's speed is much faster than Torrent's speed.
-
+3. Google Colab service is free.
 
 ## Notes
 
