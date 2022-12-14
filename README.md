@@ -14,8 +14,8 @@ Click th badge `Open in Colab` and follow the directions there.
 
 ## Notes
 
-1. How to get more disk space
+#### 1. How to get more disk space
     Go to Runtimer -> Change Runtime and give GPU as the Hardware Accelerator. Now you will get around as 380GB instead of 108GB limit(more like only 77GB available to users)
 
-2. Missing Files;
+#### 2. Missing Files;
     If somehow some files are missing or failed to download, just try to redownload the torrent, Fastresume will check files without redownloading whole Torrent.
