@@ -1,3 +1,6 @@
+# This Repo is against Google Colab policy,So use it at you own Risk.
+
+
 # Torrent To Google Drive Downloader
 
 A Simple Notebook to stream torrent files to Google Drive using Google Colab.
